@@ -6,7 +6,7 @@
 - ⚡ Fun fact: ...
 Reference: https://github.com/freddydk/freddydk/blob/main/README.md?plain=1
 -->
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on AEM, Java and SpringBoot Apps
 - 🌱 I’m currently learning REACT, Terraform, IaC
